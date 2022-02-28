@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: rgb(122, 161, 235);
+  color: white;
+  font-family: 'Quintessential', cursive;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+video {
+  text-align: center;
+  max-width: 100%;
+  height: auto;
+}
